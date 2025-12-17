@@ -22,7 +22,7 @@ Each team member contributed to specific aspects of the database lifecycle.
 ## 📁 Project Structure
 
 ### Group Project Files
-- **Gantt Chart**: [`GANTT_CHART/Group2_Gantt Chart.xlsx`](./GANTT_CHART/10-12 -Group 2 – Gantt project 3 planner.xlsx)
+- **Gantt Chart**: [`GANTT_CHART/Group2_Gantt Chart.xlsx`](.GANTT_CHART)
 - **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
 
 ### Individual Submissions
@@ -44,7 +44,7 @@ Each team member contributed to specific aspects of the database lifecycle.
 ## 🎯 Quick Access Links
 
 ### 📊 Project Planning
-- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GANTT_CHART/10-12 -Group 2 – Gantt project 3 planner.xlsx) — Visual project timeline and task scheduling
+- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](.GANTT_CHART) — Visual project timeline and task scheduling
 - **Progress Tracking**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx) — Individual member progress and task completion tracking
 
 ## 📋 File Descriptions
