@@ -1,35 +1,37 @@
-# CSCI 331 Data Systems - Group 2 HW7 Project
-Group SQL Notebook delivering Chapter 7 propositions and analysis
+# CSCI 331 Data Systems – Group 2 Final Project
+QueensClassScheduleCurrentSemester – Database Design, Governance & Implementation
 
 ## Project Overview
-This repository contains the HW6 project submissions for CSCI 331 Data Systems Group 2, including both group work and individual contributions from all team members.
+This repository contains the Final Project submissions for CSCI 331 – Data Systems, where a single denormalized course scheduling table was transformed into a fully normalized, governed relational database.
+The project emphasizes:
+--ERD design (CDM, LDM, PDM)
+--User Defined Datatypes (UDTs)
+--Constraints and domain enforcement
+--Workflow tracking and auditing
+--Stored procedures and ETL design
+--Design validation through analytical queries
+
+Each team member contributed to specific aspects of the database lifecycle.
 
 ## 📁 Project Structure
 
 ### Group Project Files
-- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx)
+- **Gantt Chart**: [`GANTT_CHART/Group2_Gantt Chart.xlsx`](./GANTT_CHART/Group2_Gantt%20Chart.xlsx)
 - **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
 
 ### Individual Submissions
-- **Mret Hein**: [`/INDIVIDUAL_NOTEBOOKS/Mret_Hein/`](./INDIVIDUAL_NOTEBOOKS/Mret_Hein/)
-- **Adi Dwivedi**: [`./INDIVIDUAL_NOTEBOOKS/Indiv_AdityaDwivedi/`](./INDIVIDUAL_NOTEBOOKS/Aditya_Dwivedi/)
-- **Adrian Angeles**: [`INDIVIDUAL_NOTEBOOKS/Indiv_AdrianAngeles/`](./INDIVIDUAL_NOTEBOOKS/Adrian_Angeles/)
-- **Ali (Mohammad) Mustafa**: [`INDIVIDUAL_NOTEBOOKS/MohammadMustafa/`](./INDIVIDUAL_NOTEBOOKS/Mohammad_Mustafa/)
+- **Mret Hein**: [`/INDIVIDUAL_Submissions/Mret_Hein/`](./INDIVIDUAL_Submissions/Mret_Hein)
+- **Adi Dwivedi**: [`./INDIVIDUAL_Submissions/Indiv_AdityaDwivedi/`](./INDIVIDUAL_Submissions/Aditya_Dwivedi/)
+- **Adrian Angeles**: [`/INDIVIDUAL_Submissions/Indiv_AdrianAngeles/`](./INDIVIDUAL_Submissions/Adrian_Angeles/)
+- **Ali (Mohammad) Mustafa**: [`/INDIVIDUAL_Submissions/MohammadMustafa/`](./INDIVIDUAL_Submissions/Mohammad_Mustafa/)
 
 ## 🎥 Group Walkthrough
 -  Group Walkthrough Video: [Youtube](https://youtu.be/P6z36vERJbQ)
 
-## 👥 Pairing Sessions (HW 7)
-- **Aditya & Mret**
-  - Aditya's and Mret's recording: [Youtube](https://youtu.be/kYbhlsVqtl8)
-- **Mohammad & Adrian**
-  - Mohammad & Adrian Pairing Video: [Youtube](https://youtu.be/UK4nPUliJmM)
 
 ## Solo Walkthrough 
-- **Aditya & Mret**
   - Aditya: [YouTube](https://youtu.be/rA0l2y-IlqY)
   - Mret: [YouTube](https://youtu.be/2JWLfO8-78k)
-- **Mohammad & Adrian**
   - Mohammad (solo): [YouTube](https://youtu.be/uwB6j5D9Y3Y)
   - Adrian (solo): [YouTube](https://youtu.be/LVasbzacFKE)
 
@@ -46,11 +48,28 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 - `Group2_TodoList.xlsx` — Comprehensive progress tracking spreadsheet with individual member contributions
 
 ### Individual Work
-Each team member has submitted their individual work in separate directories containing:
-- Jupyter notebooks (`.ipynb` files)
-- SQL scripts (`.sql` files)
-- Video demonstrations (`.mp4` files)
-- Documentation and URL links
+
+Mret Hein
+
+ -UDT strategy & reuse
+ -Constraint design and domain enforcement
+ -Metadata validation (uvw_FindColumnDefinitionPlusDefaultAndCheckConstraint)
+ -Governance-focused presentation content
+
+
+Adrian Angeles
+  -ERD design and core table structures
+  -Schema organization and relationships
+
+Adi Dwivedi
+ -ETL stored procedures
+ -Workflow tracking integration
+ -JDBC execution and JTable demos
+
+Ali (Mohammad) Mustafa 
+
+ -Analytical queries & propositions
+ -Query validation of design decisions
 
 ## 🚀 Getting Started
 
