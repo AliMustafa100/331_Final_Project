@@ -28,17 +28,10 @@ Each team member contributed to specific aspects of the database lifecycle.
 ## 🎥 Group Walkthrough
 -  Group Walkthrough Video: [Youtube](https://youtu.be/P6z36vERJbQ)
 
-## 👥 Pairing Sessions (HW 7)
-- **Aditya & Mret**
-  - Aditya's and Mret's recording: [Youtube](https://youtu.be/kYbhlsVqtl8)
-- **Mohammad & Adrian**
-  - Mohammad & Adrian Pairing Video: [Youtube](https://youtu.be/UK4nPUliJmM)
 
 ## Solo Walkthrough 
-- **Aditya & Mret**
   - Aditya: [YouTube](https://youtu.be/rA0l2y-IlqY)
   - Mret: [YouTube](https://youtu.be/2JWLfO8-78k)
-- **Mohammad & Adrian**
   - Mohammad (solo): [YouTube](https://youtu.be/uwB6j5D9Y3Y)
   - Adrian (solo): [YouTube](https://youtu.be/LVasbzacFKE)
 
@@ -55,11 +48,28 @@ Each team member contributed to specific aspects of the database lifecycle.
 - `Group2_TodoList.xlsx` — Comprehensive progress tracking spreadsheet with individual member contributions
 
 ### Individual Work
-Each team member has submitted their individual work in separate directories containing:
-- Jupyter notebooks (`.ipynb` files)
-- SQL scripts (`.sql` files)
-- Video demonstrations (`.mp4` files)
-- Documentation and URL links
+
+Mret Hein
+
+ -UDT strategy & reuse
+ -Constraint design and domain enforcement
+ -Metadata validation (uvw_FindColumnDefinitionPlusDefaultAndCheckConstraint)
+ -Governance-focused presentation content
+
+
+Adrian Angeles
+  -ERD design and core table structures
+  -Schema organization and relationships
+
+Adi Dwivedi
+ -ETL stored procedures
+ -Workflow tracking integration
+ -JDBC execution and JTable demos
+
+Ali (Mohammad) Mustafa 
+
+ -Analytical queries & propositions
+ -Query validation of design decisions
 
 ## 🚀 Getting Started
 
