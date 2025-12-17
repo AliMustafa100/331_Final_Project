@@ -5,11 +5,17 @@ QueensClassScheduleCurrentSemester – Database Design, Governance & Implementat
 This repository contains the Final Project submissions for CSCI 331 – Data Systems, where a single denormalized course scheduling table was transformed into a fully normalized, governed relational database.
 The project emphasizes:
 --ERD design (CDM, LDM, PDM)
+
 --User Defined Datatypes (UDTs)
+
 --Constraints and domain enforcement
+
 --Workflow tracking and auditing
+
 --Stored procedures and ETL design
+
 --Design validation through analytical queries
+
 
 Each team member contributed to specific aspects of the database lifecycle.
 
