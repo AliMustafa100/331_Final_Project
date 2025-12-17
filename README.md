@@ -90,14 +90,13 @@ Each team member contributed to specific aspects of the database lifecycle.
 
 1. **View Project Timeline**: Open the Gantt chart at [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url)
 2. **Track Progress**: Check individual progress in [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx.url)
-3. **Watch Pairing Session**: View the Aditya/Mret recordings above
 
 ## 📝 Notes
 - All file paths are relative to the repository root
-- Individual submissions are organized by team member name in the `INDIVIDUAL_NOTEBOOKS/` directory
+- Individual submissions are organized by team member name in the `INDIVIDUAL_Submissions/` directory
 - Group planning documents are stored in `GNATT_CHART/` and `GROUP_NOTES/` directories
 - We used **ChatGPT 5** for assistance with this project
 
 
 ---
-*Repository created for CSCI 331 Data Systems - Group 2 HW7 Project*
+*Repository created for CSCI 331 Data Systems - Group 2 Final Project*
