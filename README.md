@@ -38,7 +38,7 @@ Each team member contributed to specific aspects of the database lifecycle.
 ## Solo Walkthrough 
   - Aditya: [YouTube]()
   - Mret: [YouTube](https://youtu.be/ujyWryx60bo)
-  - Mohammad (solo): [YouTube]()
+  - Mohammad (solo): [YouTube](https://youtu.be/jIunCxGui_0)
   - Adrian (solo): [YouTube](https://youtu.be/b0IjzA2OOhY)
 
 ## 🎯 Quick Access Links
