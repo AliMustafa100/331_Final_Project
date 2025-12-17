@@ -1,8 +1,17 @@
-# CSCI 331 Data Systems - Group 2 HW7 Project
-Group SQL Notebook delivering Chapter 7 propositions and analysis
+# CSCI 331 Data Systems – Group 2 Final Project
+QueensClassScheduleCurrentSemester – Database Design, Governance & Implementation
 
 ## Project Overview
-This repository contains the HW6 project submissions for CSCI 331 Data Systems Group 2, including both group work and individual contributions from all team members.
+This repository contains the Final Project submissions for CSCI 331 – Data Systems, where a single denormalized course scheduling table was transformed into a fully normalized, governed relational database.
+The project emphasizes:
+--ERD design (CDM, LDM, PDM)
+--User Defined Datatypes (UDTs)
+--Constraints and domain enforcement
+--Workflow tracking and auditing
+--Stored procedures and ETL design
+--Design validation through analytical queries
+
+Each team member contributed to specific aspects of the database lifecycle.
 
 ## 📁 Project Structure
 
