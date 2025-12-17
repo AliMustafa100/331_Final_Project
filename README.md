@@ -16,14 +16,14 @@ Each team member contributed to specific aspects of the database lifecycle.
 ## 📁 Project Structure
 
 ### Group Project Files
-- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx)
+- **Gantt Chart**: [`GANTT_CHART/Group2_Gantt Chart.xlsx`](./GANTT_CHART/Group2_Gantt%20Chart.xlsx)
 - **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
 
 ### Individual Submissions
-- **Mret Hein**: [`/INDIVIDUAL_NOTEBOOKS/Mret_Hein/`](./INDIVIDUAL_NOTEBOOKS/Mret_Hein/)
-- **Adi Dwivedi**: [`./INDIVIDUAL_NOTEBOOKS/Indiv_AdityaDwivedi/`](./INDIVIDUAL_NOTEBOOKS/Aditya_Dwivedi/)
-- **Adrian Angeles**: [`INDIVIDUAL_NOTEBOOKS/Indiv_AdrianAngeles/`](./INDIVIDUAL_NOTEBOOKS/Adrian_Angeles/)
-- **Ali (Mohammad) Mustafa**: [`INDIVIDUAL_NOTEBOOKS/MohammadMustafa/`](./INDIVIDUAL_NOTEBOOKS/Mohammad_Mustafa/)
+- **Mret Hein**: [`/INDIVIDUAL_Submissions/Mret_Hein/`](./INDIVIDUAL_NOTEBOOKS/Mret_Hein/)
+- **Adi Dwivedi**: [`./INDIVIDUAL_Submissions/Indiv_AdityaDwivedi/`](./INDIVIDUAL_NOTEBOOKS/Aditya_Dwivedi/)
+- **Adrian Angeles**: [`/INDIVIDUAL_Submissions/Indiv_AdrianAngeles/`](./INDIVIDUAL_NOTEBOOKS/Adrian_Angeles/)
+- **Ali (Mohammad) Mustafa**: [`/INDIVIDUAL_Submissions/MohammadMustafa/`](./INDIVIDUAL_NOTEBOOKS/Mohammad_Mustafa/)
 
 ## 🎥 Group Walkthrough
 -  Group Walkthrough Video: [Youtube](https://youtu.be/P6z36vERJbQ)
