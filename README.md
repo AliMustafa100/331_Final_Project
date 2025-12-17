@@ -22,8 +22,8 @@ Each team member contributed to specific aspects of the database lifecycle.
 ## 📁 Project Structure
 
 ### Group Project Files
-- **Gantt Chart**: [`GANTT_CHART/Group2_Gantt Chart.xlsx`](./GANTT_CHART/Group2_Gantt%20Chart.xlsx)
-- **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
+- **Gantt Chart**: [`GANTT_CHART/Group2_Gantt Chart.xlsx`](GANTT_CHART)
+- **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](GROUP_NOTES)
 
 ### Individual Submissions
 - **Mret Hein**: [`/INDIVIDUAL_Submissions/Mret_Hein/`](./INDIVIDUAL_Submissions/Mret_Hein)
@@ -44,8 +44,8 @@ Each team member contributed to specific aspects of the database lifecycle.
 ## 🎯 Quick Access Links
 
 ### 📊 Project Planning
-- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url) — Visual project timeline and task scheduling
-- **Progress Tracking**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx.url) — Individual member progress and task completion tracking
+- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](GANTT_CHART) — Visual project timeline and task scheduling
+- **Progress Tracking**: [`GROUP_NOTES/Group2_TodoList.xlsx`](GROUP_NOTES) — Individual member progress and task completion tracking
 
 ## 📋 File Descriptions
 
