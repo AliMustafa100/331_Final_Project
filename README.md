@@ -55,34 +55,36 @@ Each team member contributed to specific aspects of the database lifecycle.
 
 ### Individual Work
 
-Mret Hein
+## Mret Hein
 
- -UDT strategy & reuse
+-UDT strategy & reuse
  
- -Constraint design and domain enforcement
+-Constraint design and domain enforcement
  
- -Metadata validation 
+-Metadata validation 
  
- -Governance-focused presentation content
+-Governance-focused presentation content
 
 
-Adrian Angeles
-  -ERD design and core table structures
+## Adrian Angeles
+
+-ERD design and core table structures
   
-  -Schema organization and relationships
+-Schema organization and relationships
 
-Adi Dwivedi
+## Adi Dwivedi
+
  -ETL stored procedures
  
  -Workflow tracking integration
  
  -JDBC execution and JTable demos
 
-Ali (Mohammad) Mustafa 
+## Ali (Mohammad) Mustafa 
 
- -Analytical queries & propositions
+-Analytical queries & propositions
  
- -Query validation of design decisions
+-Query validation of design decisions
 
 ## 🚀 Getting Started
 
