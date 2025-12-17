@@ -22,7 +22,7 @@ Each team member contributed to specific aspects of the database lifecycle.
 ## 📁 Project Structure
 
 ### Group Project Files
-- **Gantt Chart**: [`GANTT_CHART/Group2_Gantt Chart.xlsx`](.GANTT_CHART)
+- **Gantt Chart**: [`GANTT_CHART/Group2_Gantt Chart.xlsx`](GANTT_CHART)
 - **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
 
 ### Individual Submissions
