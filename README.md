@@ -20,10 +20,10 @@ Each team member contributed to specific aspects of the database lifecycle.
 - **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
 
 ### Individual Submissions
-- **Mret Hein**: [`/INDIVIDUAL_Submissions/Mret_Hein/`](./INDIVIDUAL_NOTEBOOKS/Mret_Hein/)
-- **Adi Dwivedi**: [`./INDIVIDUAL_Submissions/Indiv_AdityaDwivedi/`](./INDIVIDUAL_NOTEBOOKS/Aditya_Dwivedi/)
-- **Adrian Angeles**: [`/INDIVIDUAL_Submissions/Indiv_AdrianAngeles/`](./INDIVIDUAL_NOTEBOOKS/Adrian_Angeles/)
-- **Ali (Mohammad) Mustafa**: [`/INDIVIDUAL_Submissions/MohammadMustafa/`](./INDIVIDUAL_NOTEBOOKS/Mohammad_Mustafa/)
+- **Mret Hein**: [`/INDIVIDUAL_Submissions/Mret_Hein/`](./INDIVIDUAL_Submissions/Mret_Hein)
+- **Adi Dwivedi**: [`./INDIVIDUAL_Submissions/Indiv_AdityaDwivedi/`](./INDIVIDUAL_Submissions/Aditya_Dwivedi/)
+- **Adrian Angeles**: [`/INDIVIDUAL_Submissions/Indiv_AdrianAngeles/`](./INDIVIDUAL_Submissions/Adrian_Angeles/)
+- **Ali (Mohammad) Mustafa**: [`/INDIVIDUAL_Submissions/MohammadMustafa/`](./INDIVIDUAL_Submissions/Mohammad_Mustafa/)
 
 ## 🎥 Group Walkthrough
 -  Group Walkthrough Video: [Youtube](https://youtu.be/P6z36vERJbQ)
