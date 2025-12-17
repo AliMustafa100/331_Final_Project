@@ -32,7 +32,7 @@ Each team member contributed to specific aspects of the database lifecycle.
 - **Ali (Mohammad) Mustafa**: [`/INDIVIDUAL_Submissions/MohammadMustafa/`](./INDIVIDUAL_Submissions/Mohammad_Mustafa/)
 
 ## 🎥 Group Walkthrough
--  Group Walkthrough Video: [Youtube](https://youtu.be/P6z36vERJbQ)
+-  Group Walkthrough Video: [Youtube](https://youtu.be/o6L3tStEFnI)
 
 
 ## Solo Walkthrough 
